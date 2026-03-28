@@ -1,8 +1,14 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+title: "First post"
+description: "Lorem ipsum dolor sit amet"
+pubDate: 2022-07-08
+heroImage:
+  url: "https://ik.imagekit.io/2hpwexwqk/SAW%20Dev%20Blog/blog-placeholder.jpg"
+  alt: "First post hero image"
+tags: ["astro", "tutorial", "getting-started"]
+category: "Tutorial"
+isFeatured: true
+readingTime: 8
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
