@@ -42,13 +42,17 @@ readingTime: 5
 
 - `git`
 - `docker`
-- Basic programming
+
+### Basic programming
 - `c`
 - `c++`
 - `python`
 - `JavaScript`
 - `php`
-
 - `git`
-- Domain
-- Hosting
+
+### Domain
+- IP Address
+- DNS Records
+### Hosting
+- FTP Server
